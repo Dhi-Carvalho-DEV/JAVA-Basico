@@ -9,3 +9,7 @@ Neste primeiro repositório estão códigos simples que tiveram como foco do apr
 - ### Anatomia das classes
 
 Nesta parte do curso foi explicado como são criadas as classes e os conceitos básicos da programação em **JAVA**.
+
+- ### Tipos e Variáveis
+
+Nesta parte do curso foram apresentados os tipos de variáveis e como transformar uma variável em uma constante.
