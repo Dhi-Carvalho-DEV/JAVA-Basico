@@ -13,3 +13,7 @@ Nesta parte do curso foi explicado como são criadas as classes e os conceitos b
 - ### [Tipos e Variáveis](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/tipos-e-variaveis)
 
 Nesta parte do curso foram apresentados os tipos de variáveis e como transformar uma variável em uma constante.
+
+- ### [Operadores](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/operadores)
+
+Nesta parte do curso foram explicados os tipos de operadores unários, ternários, relacionais e lógicos, assim como a concatenação, incrementação, decrementação e negação.
