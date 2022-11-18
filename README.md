@@ -17,3 +17,7 @@ Nesta parte do curso foram apresentados os tipos de variáveis e como transforma
 - ### [Operadores](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/operadores)
 
 Nesta parte do curso foram explicados os tipos de operadores unários, ternários, relacionais e lógicos, assim como a concatenação, incrementação, decrementação e negação.
+
+- ### [Métodos](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/metodos)
+
+Nestas aulas foi explicado o conceito de método, como criá-los e utilizá-los, assim como as boas práticas de nomenclatura para utilização nos métodos criados.
