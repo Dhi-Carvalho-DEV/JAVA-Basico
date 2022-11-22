@@ -1,4 +1,10 @@
-public class Metodos {
+package edu.dhicarvalho.metodos;
+
+/**
+ * Esta classe foi criada com o intuito de documentar os estudos sobre métodos.
+ */
+
+public class Method {
     public double somar(int num1, int num2) {
         // LOGICA - FINALIDADE DO MÉTODO
         return num1 + num2;
