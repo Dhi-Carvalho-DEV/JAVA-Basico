@@ -1,39 +1,48 @@
 package edu.dhicarvalho.tiposevariaveis;
 
+/**
+ * Esta classe foi criada para demonstração dos tipos de variáveis que podemos
+ * ter em uma classe.
+ * 
+ * @author Dhi Carvalho
+ * 
+ * @since 16/11/2022
+ */
+
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        byte idade = 123;
-        short ano = 2021;
+        byte age = 123;
+        short year = 2021;
         int cep = 21070333;
         long cpf = 98765432109L;
         float pi = 3.14F;
-        double salario = 1275.33;
+        double wage = 1275.33;
 
-        System.out.println(idade);
-        System.out.println(ano);
+        System.out.println(age);
+        System.out.println(year);
         System.out.println(cep);
         System.out.println(cpf);
         System.out.println(pi);
-        System.out.println(salario);
+        System.out.println(wage);
 
-        short numeroCurto = 1;
-        int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal;
+        short shortNumber = 1;
+        int regularNumber = shortNumber;
+        short shortNumber2 = (short) regularNumber;
 
-        System.out.println(numeroCurto2);
+        System.out.println(shortNumber2);
 
-        int numero = 5;
-        numero = 10;
+        int number = 5;
+        number = 10;
 
-        System.out.println(numero);
+        System.out.println(number);
 
-        double VALOR_DE_PI = 3.14;
-        VALOR_DE_PI = 10.75;
+        double VALUE_OF_PI = 3.14;
+        VALUE_OF_PI = 10.75;
 
-        System.out.println(VALOR_DE_PI);
+        System.out.println(VALUE_OF_PI);
 
-        final double VALOR_DE_PI2 = 3.14;
+        final double VALUE_OF_PI2 = 3.14;
 
-        System.out.println(VALOR_DE_PI2);
+        System.out.println(VALUE_OF_PI2);
     }
 }

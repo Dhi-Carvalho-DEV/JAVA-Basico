@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.dhicarvalho.tiposevariaveis","c":"TiposVariaveis","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"edu.dhicarvalho.tiposevariaveis","c":"TiposVariaveis","l":"TiposVariaveis()","u":"%3Cinit%3E()"}];updateSearchResults();
