@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.dhicarvalho.operadores","c":"Operators","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"edu.dhicarvalho.operadores","c":"Operators","l":"Operators()","u":"%3Cinit%3E()"}];updateSearchResults();
