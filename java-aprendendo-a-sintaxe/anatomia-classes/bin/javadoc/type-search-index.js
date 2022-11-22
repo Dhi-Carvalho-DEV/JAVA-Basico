@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.dhicarvalho.anatomiadasclasses","l":"MyClass"},{"p":"edu.dhicarvalho.anatomiadasclasses","l":"StudentBulletin"}];updateSearchResults();

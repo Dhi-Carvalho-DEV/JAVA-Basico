@@ -1,5 +1,15 @@
 package edu.dhicarvalho.anatomiadasclasses;
 
+/**
+ * Esta classe foi criada durante o curso de JAVA Básico da DIO e
+ * tem como objetivo demonstrar o aprendizado sobre a criação de uma
+ * classe, declaração de variáveis e declarção de parâmetros.
+ * 
+ * @author Dhi Carvalho
+ * @since 16/11/2022
+ * 
+ */
+
 public class MyClass {
   public static void main(String[] args) {
     String myName = "Diogo";
