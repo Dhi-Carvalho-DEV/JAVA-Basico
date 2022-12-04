@@ -70,7 +70,7 @@ public class ControleDeFluxo {
 
     private static void ifSemFlecha() {
 
-        int mes = 9;
+        int mes = 0;
         if (mes == 1) {
             System.out.println("Janeiro");
         } else if (mes == 2) {
@@ -138,7 +138,7 @@ public class ControleDeFluxo {
 
     private static void switchSemana() {
 
-        String dia = "Terça";
+        String dia = "Gostei";
         switch (dia) {
             case "Segunda":
                 System.out.println(2);
@@ -162,7 +162,7 @@ public class ControleDeFluxo {
                 System.out.println(1);
                 break;
             default:
-                System.out.println(1);
+                // System.out.println(1);
                 System.out.println("Dia inválido");
                 break;
         }
