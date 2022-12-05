@@ -6,12 +6,12 @@ Neste repositório estão códigos que foram realizados durante o curso básico 
 
 ## Estrutura do curso:
 
-- ### Aprendendo a Sintaxe
+- ### [Aprendendo a Sintaxe](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/blob/main/java-aprendendo-a-sintaxe/README.md)
 
-- ### Lógica Condicional e Controle de Fluxos
+- ### [Lógica Condicional e Controle de Fluxos]()
 
-- ### Estruturas de Repetição e Arrays
+- ### [Estruturas de Repetição e Arrays]()
 
-- ### Entendendo Métodos
+- ### [Entendendo Métodos]()
 
-- ### Desafio de Código
+- ### [Desafio de Código]()
