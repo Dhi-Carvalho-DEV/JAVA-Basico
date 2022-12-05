@@ -1,31 +1,33 @@
-# JAVA - Aprendendo a Sintaxe
+# JAVA BÁSICO - Bootcamp Potência Tech by iFood / DIO
 
 Este repositório foi criado com o intuito de armanezar os códigos feitos durante o curso de **JAVA Básico da DIO** durante o **Potência Tech by iFood**.
 
-Neste primeiro repositório estão códigos simples que tiveram como foco do aprendizado a sintaxe básica e as boas práticas de programação utilizando a linguagem Java.
+Neste repositório estão códigos que foram realizados durante o curso básico de programação utilizando a linguagem Java.
 
 ## Estrutura do curso:
 
-- ### [Anatomia das classes](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/anatomia-classes)
+1. ### Aprendendo a Sintaxe:
+
+- #### [Anatomia das classes](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/anatomia-classes)
 
 Nesta parte do curso foi explicado como são criadas as classes e os conceitos básicos da programação em **JAVA**.
 
-- ### [Tipos e Variáveis](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/tipos-e-variaveis)
+- #### [Tipos e Variáveis](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/tipos-e-variaveis)
 
 Nesta parte do curso foram apresentados os tipos de variáveis e como transformar uma variável em uma constante.
 
-- ### [Operadores](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/operadores)
+- #### [Operadores](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/operadores)
 
 Nesta parte do curso foram explicados os tipos de operadores unários, ternários, relacionais e lógicos, assim como a concatenação, incrementação, decrementação e negação.
 
-- ### [Métodos](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/metodos)
+- #### [Métodos](https://github.com/Dhi-Carvalho-DEV/JAVA-Basico/tree/main/java-aprendendo-a-sintaxe/metodos)
 
 Nestas aulas foi explicado o conceito de método, como criá-los e utilizá-los, assim como as boas práticas de nomenclatura para utilização nos métodos criados.
 
-- ### [Escopo]
+- #### [Escopo]
 
 Nesta aula foi explicada os diferentes tipos de escopo, escopo de classe onde as variáveis são vistas por toda a classe, escopo de método onde as variáveis são vistas apenas dentro do método e escopo de fluxo onde a variável é visível apenas no fluxo do método ou aplicação.
 
-- ### [Java Doc]
+- #### [Java Doc]
 
 Nesta aula foi explicado a importância de conhecer a documentação da linguagem Java e de seus frameworks, assim como a importânica de documentar as aplicações criadas e como utilizar a Api Java Doc disponibilizada pela linguagem para a criação da documentação.
